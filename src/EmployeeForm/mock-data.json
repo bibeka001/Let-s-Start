@@ -1,0 +1,44 @@
+
+[
+    {
+        "id":1,
+        "name": "John Cena",
+        "line": "park street",
+        "line1": "week street",
+        "city": "London",
+        "State":"London"
+    },
+    {
+        "id":2,
+        "name": "Rosy Singh",
+        "line": "park street",
+        "line1": "week street",
+        "city": "London",
+        "State":"London"
+    },
+    {
+        "id":3,
+        "name": "Rohit Das",
+        "line": "park street",
+        "line1": "week street",
+        "city": "London",
+        "State":"London"
+    },
+    {
+        "id":4,
+        "name": "Rajesh Das",
+        "line": " street",
+        "line1": "week street",
+        "city": "paris",
+        "State":"france"
+    },
+    {
+        "id":5,
+        "name": "Rohan Setty",
+        "line": " MG road",
+        "line1": "Sastri Marg",
+        "city": "Mg road",
+        "State":"Karnataka"
+    }
+
+]
